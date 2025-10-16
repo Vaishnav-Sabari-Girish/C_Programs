@@ -15,3 +15,5 @@ run:
 br:
     just build && just run
 
+clean:
+    rm {{OUT}}
