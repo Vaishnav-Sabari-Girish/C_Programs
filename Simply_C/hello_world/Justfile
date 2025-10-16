@@ -15,5 +15,6 @@ run:
 br:
     just build && just run
 
+# Remove built binary
 clean:
     rm {{OUT}}

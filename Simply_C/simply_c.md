@@ -7,3 +7,4 @@ To run the programs, I have provided a Justfile, so that one can use `just build
 ## Programs 
 
 1. [Hello World](./hello_world/main.c)
+2. [Comments](./comments/main.c)
