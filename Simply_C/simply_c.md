@@ -11,3 +11,4 @@ To run the programs, I have provided a Justfile, so that one can use `just build
 3. [Variables](./variables/main.c)
 4. [Data Types](./data_types/main.c)
 5. [Custom Data Types](./custom_types/main.c)
+6. [Header file](./header_file/main.c)
