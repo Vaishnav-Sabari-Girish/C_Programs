@@ -1,7 +1,7 @@
 # Variables
 CFLAGS := "-Wall -Wextra -O2"
 SRC := "main.c"
-OUT := "main"
+OUT := "main.out"
 
 # Build rule
 build:
