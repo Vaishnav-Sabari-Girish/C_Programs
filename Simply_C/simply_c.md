@@ -8,3 +8,4 @@ To run the programs, I have provided a Justfile, so that one can use `just build
 
 1. [Hello World](./hello_world/main.c)
 2. [Comments](./comments/main.c)
+3. [Variables](./variables/main.c)
