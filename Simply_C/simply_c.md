@@ -25,3 +25,4 @@ just run   # Run rule
 8. [Types of Literals](./literal_types/main.c)
 9. [User Input](./user_input/main.c)
 10. [Literal Qualifiers](./literal_qualifiers/main.c)
+11. [Character and String Literals](./character_string_literals/main.c)
