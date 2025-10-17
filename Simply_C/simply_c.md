@@ -29,3 +29,4 @@ just run   # Run rule
 12. [Escape Sequences](./escape_sequences/main.c)
 13. [Type Conversion](./type_conversion/main.c)
 14. [Operators](./operators/operators.md)
+15. [Decisions](./decisions/decisions.md)
