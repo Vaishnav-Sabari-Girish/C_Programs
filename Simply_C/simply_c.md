@@ -2,7 +2,16 @@
 
 **Link** : [https://mu.microchip.com/syntax-and-structure-of-c](https://mu.microchip.com/syntax-and-structure-of-c)
 
-To run the programs, I have provided a Justfile, so that one can use `just build` to build and `just run` to run the program
+To run the programs, I have provided a Justfile, so that one can use `just build` to build and `just run` to run the program or `just br` to build and run.
+
+The below are the `just` commands
+
+```bash
+just br    # Build + Run together
+just build # Build rule
+just clean # Remove built binary
+just run   # Run rule
+```
 
 ## Programs 
 
@@ -12,3 +21,4 @@ To run the programs, I have provided a Justfile, so that one can use `just build
 4. [Data Types](./data_types/main.c)
 5. [Custom Data Types](./custom_types/main.c)
 6. [Header file](./header_file/main.c)
+7. [Constants and Literals](./constants_literals/main.c)
