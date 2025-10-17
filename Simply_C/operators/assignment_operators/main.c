@@ -14,4 +14,17 @@ int main() {
   printf("%hd\n", x); // %hd is used to print short values
   printf("%u\n", y);
   return 0;
+
+  /*
+   * Other Compound operators include
+   * -=  (x -= y is same as x = x - y)
+   * *=  (x *= y is same as x = x * y)
+   * /=  (x /= y is same as x = x / y)  
+   * %=  (x %= y is same as x = x % y)
+   * &=  (x &= y is same as x = x & y)
+   * |=  (x |= y is same as x = x | y)
+   * ^=  (x ^= y is same as x = x ^ y)
+   * >>= (x >>= y is same as x = x >> y)
+   * <<= (x <<= y is same as x = x << y)
+   */
 }
