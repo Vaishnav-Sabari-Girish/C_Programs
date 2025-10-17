@@ -1,7 +1,7 @@
 # Operator Programs in C 
 
 1. [Assignment Operators](./assignment_operators/main.c)
-2. [Logical Operators]
+2. [Logical Operators](./logical_operators/main.c)
 3. [Bitwise Operators]
 4. [Bitwise Shift Operators]
 5. [Cast Operator]
