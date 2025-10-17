@@ -28,3 +28,4 @@ just run   # Run rule
 11. [Character and String Literals](./character_string_literals/main.c)
 12. [Escape Sequences](./escape_sequences/main.c)
 13. [Type Conversion](./type_conversion/main.c)
+14. [Operators](./operators/operators.md)
