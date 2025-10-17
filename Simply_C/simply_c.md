@@ -30,3 +30,4 @@ just run   # Run rule
 13. [Type Conversion](./type_conversion/main.c)
 14. [Operators](./operators/operators.md)
 15. [Decisions](./decisions/decisions.md)
+16. [Loops](./loops/loops.md)
