@@ -24,3 +24,4 @@ just run   # Run rule
 7. [Constants and Literals](./constants_literals/main.c)
 8. [Types of Literals](./literal_types/main.c)
 9. [User Input](./user_input/main.c)
+10. [Literal Qualifiers](./literal_qualifiers/main.c)
