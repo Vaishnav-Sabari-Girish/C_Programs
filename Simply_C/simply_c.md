@@ -31,3 +31,4 @@ just run   # Run rule
 14. [Operators](./operators/operators.md)
 15. [Decisions](./decisions/decisions.md)
 16. [Loops](./loops/loops.md)
+17. [Functions](./functions/functions.md)
