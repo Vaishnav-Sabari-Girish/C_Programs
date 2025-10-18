@@ -12,6 +12,14 @@ void func2() {
   func1();
 }
 
+int func_with_return_val(int a, int b) {
+  if (a > b) {
+    return 1;
+  } else {
+    return 0;
+  }
+}
+
 int main() {
   printf("Calling function 1\n");
   func1();
@@ -20,5 +28,11 @@ int main() {
 
   printf("Calling function 2\n");
   func2();
+
+  printf("\n");
+
+  printf("Function with return value\n");
+  int big = func_with_return_val(10, 5);
+  printf("Returned value : %d\n", big);
   return 0;
 }
