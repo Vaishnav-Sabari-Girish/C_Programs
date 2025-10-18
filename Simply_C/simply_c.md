@@ -32,3 +32,4 @@ just run   # Run rule
 15. [Decisions](./decisions/decisions.md)
 16. [Loops](./loops/loops.md)
 17. [Functions](./functions/functions.md)
+18. [Advanced Variable stuff](./variables_advanced/variables_advanced.md)
