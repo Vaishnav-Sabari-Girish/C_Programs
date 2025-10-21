@@ -33,3 +33,4 @@ just run   # Run rule
 16. [Loops](./loops/loops.md)
 17. [Functions](./functions/functions.md)
 18. [Advanced Variable stuff](./variables_advanced/variables_advanced.md)
+19. [Arrays](./arrays/arrays.md)
